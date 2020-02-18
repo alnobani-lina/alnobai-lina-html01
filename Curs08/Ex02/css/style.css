@@ -1,0 +1,43 @@
+h1{
+    color: red;
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 35px;
+}
+
+p b{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+ol a{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
+ul{
+    font-family: 'Julius Sans One', sans-serif;
+    line-height: 25px; 
+}
+
+h3{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    color: green;
+    font-size: 28px;
+}
+
+h2{
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 32px;
+    color: purple;
+    text-decoration: underline;
+}
+
+p{
+    line-height: 23px;
+}
