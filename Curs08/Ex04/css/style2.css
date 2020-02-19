@@ -1,0 +1,58 @@
+body{
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.container{
+  border: 3px;
+  padding: 5px;
+  position: relative;
+
+}
+
+nav{
+  background-color: blue;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  padding: 5px;
+}
+
+nav a{
+  color: brown;
+}
+
+.container p .legend{
+  position: absolute;
+  top: 15px;
+  left: 10px;
+  background: white;
+  border: 1px solid black;
+  padding: 5px;
+}
+
+.sub{
+  position: relative;
+  top: -4px;
+  font-size: 10px;
+}
+
+.nnav{
+  background-color: green;
+  list-style-type: none;
+  margin: 0;
+  padding: 5px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  
+}
+
+.nnav li{
+  display: inline-block;
+}
+
+.nnav a{
+  color: white;
+  text-decoration: none;
+}
