@@ -1,0 +1,69 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    position: absolute;
+    top: 0;
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.info{
+    background-color: black;
+    color: white;
+    width: 100%;
+    top: 0;
+    right: 0;
+
+}
+
+.info2{
+    background-color: #E5E5E5;
+    margin-top: 25px;
+    padding-top: 1px;
+}
+
+.info2 a{
+    color: #000;
+    position: absolute;
+    top: 50px;
+    right: 0;
+
+}
+
+#img{
+    width: 1920px;
+    height: 1050px;
+    margin-top: 0;
+    padding-top: 10px;
+}
+
+.box{
+    background-color: black;
+    opacity: .5;
+    width: 1088px;
+    height: 450px;
+    position: absolute;
+    top: 600px;
+    left: 400px;
+}
+
+.pr{
+    color: white;
+    position: absolute;
+    font-size: 32px;
+    top: 50px;
+    left: 350px;
+}
+
+.main-container{
+    position: fixed;
+    top: 1100px;
+}
+
+.nnav{
+
+}
+
