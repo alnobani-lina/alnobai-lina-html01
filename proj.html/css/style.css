@@ -49,6 +49,65 @@ table {
 
 body {
   color:#707070 ;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  margin: 0 auto;
+}
+
+.header-top{
+  margin: 25px 0 0 0 ;
+}
+
+.header-contact{
+  float: left;
+}
+
+.header-control{
+  float: right;
+}
+
+.header-bottom .logo-container{
+  text-align: center;
+}
+
+.header-bottom .logo{
+  display: inline-block;
+}
+
+.nav-main ul li{
+  display: inline-block;
+}
+
+.nav-main ul li a{
+  color: #707070;
+  text-transform: uppercase;
+  text-decoration: none;
+  display: inline-block;
+  margin: 0 2px;
+  padding: 18px;
+  border-radius: 35px;
+  transition: background-color 0.4s linear, 
+  color 0.2s linear;
+}
+
+.nav-main ul li a:hover{
+  background-color: #FF6B6B;
+  color: white;
+
+}
+
+.nav-main ul .active a{
+  text-decoration: underline solid #FF6B6B ;
+}
+
+.nav-main ul{
+  text-align: center;
+}
+
+.container{
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 .banner-main .container a{
@@ -58,3 +117,5 @@ body {
 .product-pricing .product-price span {
   color: #FF6B6B;
 }
+
+
