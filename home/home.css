@@ -88,7 +88,7 @@ body{
     opacity: .6;
     font-size: 24px;
     position: absolute;
-    top: 1210px;
+    top: 1170px;
     right: 100px;
 }
 
@@ -100,6 +100,9 @@ body{
     color: #000;
     opacity: .6;
     font-size: 36px;
+    position: absolute;
+    top: 1170px;
+    left: 70px;
 }
 
 .box-1{
@@ -108,6 +111,7 @@ body{
     height: 700px;
     position: absolute;
     left: 70px;
+    top: 1245px;
 }
 
 #img1{
@@ -121,6 +125,7 @@ body{
     height: 700px;
     position: absolute;
     left: 650px;
+    top: 1245px;
 }
 
 #img2{
@@ -134,6 +139,7 @@ body{
     height: 700px;
     position: absolute;
     right: 70px;
+    top: 1245px;
 }
 
 #img3{
@@ -141,24 +147,365 @@ body{
     height: 400px;
 }
 
-#head1{
+#hr2{
+    width: 1600px;
+    position: absolute;
+    left: 50px;
+    top: 2000px;
+}
+
+.sect1{
+    color: #000;
+    opacity: .6;
+    font-size: 24px;
+    position: absolute;
+    top: 2020px;
+    right: 100px;
+}
+
+.pro{
+    color: #000;
+    opacity: .6;
     font-size: 36px;
-    color: #000;
-    opacity: .75;
     position: absolute;
+    top: 2020px;
+    left: 70px;
+}
+
+.box-4{
+    background-color: #F5F5F5;
+    width: 350px;
+    height: 300px;
+    position: absolute;
+    left: 70px;
+    top: 2100px;
+}
+
+#name{
+    font-size: 21px;
+    color: #000;
+    opacity: .7;
+    position: absolute;
+    top: 210px;
     left: 110px;
 }
 
-#head-1{
-    font-size: 18px;
+#address{
+    font-size: 16px;
     color: #000;
-    opacity: .75;
+    opacity: .7;
     position: absolute;
+    top: 230px;
     left: 110px;
+}
+
+#for-sale{
+    font-size: 12px;
+    color: #000;
+    opacity: .7;
+    position: absolute;
+    top: 220px;
+    left: 20px;
+}
+
+#span-1{
+    font-size: 24px;
+    font-weight: bold;
+    color: #000;
+    opacity: .7;
+    position: absolute;
+    top: 250px;
+    left: 20px;
+}
+
+#img-all{
+    width: 350px;
+    height: 200px;
+}
+
+.box-5{
+    background-color: #F5F5F5;
+    width: 350px;
+    height: 300px;
+    position: absolute;
+    left: 500px;
+    top: 2100px;
+}
+
+.box-6{
+    background-color: #F5F5F5;
+    width: 350px;
+    height: 300px;
+    position: absolute;
+    right: 500px;
+    top: 2100px;
+}
+
+.box-7{
+    background-color: #F5F5F5;
+    width: 350px;
+    height: 300px;
+    position: absolute;
+    right: 70px;
+    top: 2100px;
+}
+
+.box-8{
+    background-color: #F5F5F5;
+    width: 350px;
+    height: 300px;
+    position: absolute;
+    left: 70px;
+    top: 2420px;
+}
+
+.box-9{
+    background-color: #F5F5F5;
+    width: 350px;
+    height: 300px;
+    position: absolute;
+    left: 500px;
+    top: 2420px;
+}
+
+.box-10{
+    background-color: #F5F5F5;
+    width: 350px;
+    height: 300px;
+    position: absolute;
+    right: 500px;
+    top: 2420px;
+}
+
+.box-11{
+    background-color: #F5F5F5;
+    width: 350px;
+    height: 300px;
+    position: absolute;
+    right: 70px;
+    top: 2420px;
+}
+
+#hr3{
+    width: 1600px;
+    position: absolute;
+    left: 50px;
+    top: 2760px;
+}
+
+.trusted{
+    color: #000;
+    opacity: .6;
+    font-size: 36px;
+    position: absolute;
+    top: 2780px;
+}
+
+.box-12{
+    background-color: #F5F5F5;
+    width: 500px;
+    height: 600px;
+    position: absolute;
+    left: 70px;
+    top: 2860px;
+}
+
+.box-13{
+    background-color: #F5F5F5;
+    width: 500px;
+    height: 600px;
+    position: absolute;
+    left: 650px;
+    top: 2860px;
+}
+
+.box-14{
+    background-color: #F5F5F5;
+    width: 500px;
+    height: 600px;
+    position: absolute;
+    right: 70px;
+    top: 2860px;
+}
+
+#hr4{
+    width: 1600px;
+    position: absolute;
+    left: 50px;
+    top: 3460px;
+}
+
+.latest{
+    color: #000;
+    opacity: .6;
+    font-size: 36px;
+    position: absolute;
+    top: 3480px;
+}
+
+.view{
+    color: #000;
+    opacity: .6;
+    font-size: 21px;
+    position: absolute;
+    top: 3480px;
+    right: 100px;
+}
+
+.box-15{
+    background-color: #F5F5F5;
+    width: 502px;
+    height: 500px;
+    position: absolute;
+    left: 70px;
+    top: 3560px;
+}
+
+.box-16{
+    background-color: #F5F5F5;
+    width: 502px;
+    height: 500px;
+    position: absolute;
+    left: 650px;
+    top: 3560px;
+}
+
+.box-17{
+    background-color: #F5F5F5;
+    width: 502px;
+    height: 500px;
+    position: absolute;
+    right: 70px;
+    top: 3560px;
+}
+
+#latest-img{
+    width: 502px;
+    height: 300px;
+}
+
+#user{
+    position: absolute;
+    top: 50px;
+    left: 80px;
+}
+
+#user1{
+    position: absolute;
+    top: 50px;
+    left: 80px;
+}
+
+#user2{
+    position: absolute;
+    top: 50px;
+    left: 80px;
+}
+
+.blue-box{
+    background-color: #46EADA;
+    width: 1800px;
+    height: 400px;
+    position: absolute;
+    top: 4100px;
+    
+}
+
+.box-00{
+    background-color: white;
+    width: 1088px;
+    height: 300px;
+    position: absolute;
+    top: 50px;
+    left: 400px;
+}
+
+footer{
+    background-color: black;
+    opacity: .6;
+    width: 1800px;
+    height: 500px;
+    position: absolute;
+    top: 4600px;
+}
+
+#header1{
+    font-size: 36px;
+    color: #46EADA;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
+
+#par{
+    font-size: 24px;
+    color: white;
+    position: absolute;
+    top: 200px;
+    left: 100px;
+}
+
+#par2{
+    font-size: 24px;
+    color: white;
+    position: absolute;
+    top: 400px;
+    left: 100px;
+}
+
+#header2{
+    font-size: 36px;
+    color: #46EADA;
+    position: absolute;
+    top: 100px;
+    right: 400px;
+}
+
+#email{
+    width: 400px;
+    height: 50px;
+    border: none;
+    position: absolute;
+    top: 250px;
+    right: 300px;
+}
+
+#sub{
+    width: 120px;
+    height: 53px;
+    background-color: #46EADA;
+    border: none;
+    position: absolute;
+    top: 250px;
+    right: 200px;
+}
+
+#par3{
+    font-size: 24px;
+    color: white;
+    position: absolute;
+    top: 400px;
+    left: 600px;
+}
+
+#par4{
+    font-size: 16px;
+    color: white;
+    opacity: .6;
+    position: absolute;
+    top: 400px;
+    right: 200px;
+}
+
+#infoo2{
+    font-size: 16px;
+    color: white;
+    opacity: .6;
+    position: absolute;
     top: 450px;
+    right: 200px;
 }
 
-#hr1{
-    position: absolute;
-    top: 1000px;
-}
+
+
+
