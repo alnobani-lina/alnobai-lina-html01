@@ -10,3 +10,26 @@
   padding: 8px 8px 10px 10px;
   text-decoration: underline wavy lawngreen;
 }
+
+.pane-short .container .para{
+  text-decoration: underline wavy darkblue;
+  margin: 5px;
+}
+
+.pane-short .container .short-para{
+  text-decoration: underline dashed magenta;
+  width: 75%;
+  margin: 11px auto 11px auto;
+  padding: 0 10px 0 10px;
+  border: 1px solid blueviolet;
+}
+
+.pane-short .anchor-list li a{
+  text-decoration: overline solid lightcoral;
+  margin: 5px 0 5px 0;
+  padding: 2px 4px 5 px 9px;
+}
+
+.pane-short .list li{
+  text-decoration: line-through double brown;
+}
