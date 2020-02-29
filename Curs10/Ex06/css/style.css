@@ -1,0 +1,29 @@
+.main a:hover{
+  text-decoration: none;
+}
+
+.main li:nth-child(2n) a:hover{
+    color: red;
+}
+
+h1:hover{
+    text-decoration: underline;
+}
+
+p i:hover{
+  
+}
+
+.secondary a:hover{
+    text-decoration: overline;
+}
+
+.secondary li:nth-of-type(odd) a:hover{
+    text-decoration: none;
+    color: green;
+}
+
+p b:hover{
+    color: red;
+    
+}
