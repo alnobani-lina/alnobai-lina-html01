@@ -1,0 +1,12 @@
+input[type=checkbox]:checked{
+    background-color: green;
+}
+
+input[type="radio"]:checked{
+    background-color: green;
+}
+
+option:checked{
+  color: red;
+  font-weight: bold;
+}

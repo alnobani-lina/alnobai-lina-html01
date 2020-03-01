@@ -1,0 +1,28 @@
+body{
+    color: lightgreen;
+}
+
+ol a{
+    color: inherit;
+}
+
+ol a:hover{
+    text-decoration: none;
+}
+
+ul{
+    list-style-type property: none;
+}
+
+.para-short{
+    text-align: center;
+    width: 50%;
+    border: 1px solid black;
+    padding: 15px;
+}
+
+.para-short{
+    width: inherit;
+    border: 1px solid red;
+    text-align: center;
+}

@@ -1,0 +1,14 @@
+.my-first-list a::before{
+  content: "";
+  width: 10px;
+  height: 10px;
+  color: purple;
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+
+.my-first-list a::after{
+    content: "";
+
+}
