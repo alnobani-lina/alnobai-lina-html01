@@ -1,7 +1,13 @@
+.my-first-list a{
+  display: block;
+  padding: 0 15px;
+  position: relative;
+}
+
 .my-first-list a::before{
   content: "";
-  width: 10px;
-  height: 10px;
+  width: 5px;
+  height: 5px;
   color: purple;
   position: absolute;
   right: 10px;
@@ -10,5 +16,36 @@
 
 .my-first-list a::after{
     content: "";
+    display: block;
 
+}
+
+.my-second-list a{
+  display: block;
+  padding: 0 15px;
+  position: relative;
+}
+
+.my-second-list a::before{
+  content: "";
+  display: block;
+  width: 4px;
+  height: 8px;
+  background-color: yellow;
+  position: absolute;
+  top: 5px;
+  left: 7px;
+  border-radius: 2px/4px;
+}
+
+.my-second-list a::after{
+  content: "";
+  display: block;
+  width: 5px;
+  height: 5px;
+  background-color: purple;
+  position: absolute;
+  top: 7px;
+  right: 3px;
+  transform: rotate(55deg) skew(25deg);
 }
